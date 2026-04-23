@@ -62,7 +62,10 @@ I am a **Systems Information student at UFPB** (3rd Semester), intensely focused
   </a>
   <a href="https://www.instagram.com/samuelm.is/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a>   
+  <a href="https://www.upwork.com/freelancers/~01d07cd50c3e3e0c2a" target="_blank">
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" />
+</a>
 </p>
 
 <p align="center">
