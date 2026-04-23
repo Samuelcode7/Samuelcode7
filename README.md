@@ -1,19 +1,24 @@
-# ⚡ Welcome to my Developer Universe! | Welcome to Samuel's Profile
+# <p align="center">
+  <img src="https://media.giphy.com/media/VnJ6D88n88rC7rK0uI/giphy.gif" alt="Futuristic 3D Avatar for Samuel - Java, Apex, UFPB" width="350px" />
+</p>
+
+# 🚀 Welcome to my Developer Universe! | Welcome to Samuel's Profile
 
 <p align="left">
-  <img src="https://img.shields.io/badge/English-Fluent_or_Intermediate-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Paraíba,_Brazil-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-Technical Proficiency-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Actively Learning & Building-green?style=for-the-badge&logo=codetriage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-UFPB (P3), Brazil-yellow?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me / Sobre Mim
-I am a **Systems Information student at UFPB** (3rd Semester), currently focused on mastering Backend technologies and Cloud computing. I believe in consistent evolution and hard work.
+I am a **Systems Information student at UFPB** (3rd Semester), intensely focused on mastering Backend technologies, Architecture, and Cloud computing. My core belief is that consistent effort defeats talent.
 
 - 🎓 **Education:** B.S. in Information Systems - UFPB (Campus IV).
-- 🌍 **Language Proficiency:** Advanced Reading and Technical English.
-- 🔭 **Current Focus:** Deep diving into Java, Spring Boot, and Salesforce Apex.
-- ⚡ **Goal:** Building robust and scalable software solutions.
+- 🌍 **Language:** Advanced Reading & Technical English for Development.
+- 🔭 **Current Deep Dive:** **Java**, **Spring Boot**, and **Salesforce Apex**.
+- ⚡ **Ultimate Goal:** Building robust, scalable, and impactful software solutions.
 
 ---
 
@@ -46,11 +51,4 @@ I am a **Systems Information student at UFPB** (3rd Semester), currently focused
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-<i>"Trust in God, but keep your code clean and your logic sharp."</i>
-</p>
+  <a href="mailto:SEU
