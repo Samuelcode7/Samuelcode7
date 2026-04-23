@@ -69,5 +69,5 @@ I am a **Systems Information student at UFPB** (3rd Semester), intensely focused
 </p>
 
 <p align="center">
-<i>"Faith in God, code clean, logic sharp."</i>
+<i>"Coisa Linda Papai"</i>
 </p>
