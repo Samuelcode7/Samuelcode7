@@ -1,6 +1,4 @@
-# <p align="center">
-  <img src="https://media.giphy.com/media/VnJ6D88n88rC7rK0uI/giphy.gif" alt="Futuristic 3D Avatar" width="300px" />
-</p>
+# 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Universe!;Olá,+eu+sou+o+Samuel!;Systems+Information+@+UFPB;Building+with+Java+%26+Apex" alt="Typing SVG" />
